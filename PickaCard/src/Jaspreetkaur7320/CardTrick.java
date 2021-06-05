@@ -16,9 +16,21 @@ public class CardTrick {
         Card[] magicHand = new Card[7];
         for(int i=0;i< magicHand.length;i++){
             Card c = new Card();  
-              
+            
+    String[] suits = { "Clubs", "Diamonds", "Hearts", "Spades" };
+    String[] ranks = { "narf", "Ace", "2", "3", "4", "5", "6",
+               "7", "8", "9", "10", "Jack", "Queen", "King" };
+
+    System.out.println(value [c.value] + " of " + suit [c.SUITS]);
+    
+}
+             
+           
+             }
+             
+             
         }
         
     }
   
-}
+
