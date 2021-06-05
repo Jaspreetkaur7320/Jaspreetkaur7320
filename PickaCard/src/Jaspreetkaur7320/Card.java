@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pickacard;
+package Jaspreetkaur7320;
 
 /**
  *A class that models playing card objects ,cards have

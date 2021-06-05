@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pickacard;
+package Jaspreetkaur7320;
 
 /**
  *a class that fills the magic hand of 7 cards with random card objects and then ask the user to pick a card and
